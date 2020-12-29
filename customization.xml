@@ -135,7 +135,7 @@
       <path value="디버그 도구 창 상단 도구 모음" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ViewBreakpoints" is_action="true" action_type="1" position="5">
+    <group value="ViewBreakpoints" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="디버그 도구 창 상단 도구 모음" />
       <option name="myInitialPosition" value="-1" />
@@ -145,7 +145,7 @@
       <path value="디버그 도구 창 상단 도구 모음" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="XDebugger.MuteBreakpoints" is_action="true" action_type="1" position="6">
+    <group value="XDebugger.MuteBreakpoints" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="디버그 도구 창 상단 도구 모음" />
       <option name="myInitialPosition" value="-1" />
