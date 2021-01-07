@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="모든 위치" />
-    <option name="defaultScopeName" value="모든 위치" />
-    <option name="SEARCH_SCOPE" value="모든 위치" />
+    <option name="customScope" value="프로젝트 'YOURGG'" />
+    <option name="defaultScopeName" value="프로젝트 'YOURGG'" />
+    <option name="SEARCH_SCOPE" value="프로젝트 'YOURGG'" />
   </component>
 </application>
