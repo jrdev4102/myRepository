@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://mybatis.org/schema/mybatis-spring" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.3/extResources/3d0297a0_mybatis-spring-1.2.xsd" />
+  </component>
+</application>
