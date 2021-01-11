@@ -8,7 +8,6 @@
     <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
     <option name="HTML_KEEP_BLANK_LINES" value="0" />
     <option name="HTML_ALIGN_TEXT" value="true" />
-    <option name="HTML_SPACE_AFTER_TAG_NAME" value="true" />
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
