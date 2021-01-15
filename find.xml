@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="프로젝트 'YOURGG'" />
-    <option name="defaultScopeName" value="프로젝트 'YOURGG'" />
-    <option name="SEARCH_SCOPE" value="프로젝트 'YOURGG'" />
+    <option name="customScope" value="파일 '...\src\main\java\com\study\springboot\service\BmiCalculatorService.java [springboot.main]'" />
+    <option name="defaultScopeName" value="파일 '...\src\main\java\com\study\springboot\service\BmiCalculatorService.java [springboot.main]'" />
+    <option name="SEARCH_SCOPE" value="파일 '...\src\main\java\com\study\springboot\service\BmiCalculatorService.java [springboot.main]'" />
   </component>
 </application>
