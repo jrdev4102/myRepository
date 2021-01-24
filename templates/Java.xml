@@ -1,0 +1,7 @@
+<templateSet group="Java">
+  <template name="psm" value="public void method(){&#10;  $END$&#10;}" description="public void method" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
