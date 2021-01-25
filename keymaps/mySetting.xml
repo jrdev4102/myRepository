@@ -1,0 +1,8 @@
+<keymap version="1" name="mySetting" parent="$default">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt 2" />
+  </action>
+</keymap>
