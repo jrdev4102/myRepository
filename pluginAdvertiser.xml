@@ -2433,7 +2433,7 @@
                   </entry>
                   <entry key="BSP_TEST_RUN_CONFIGURATION">
                     <value>
-                      <FeaturePluginData displayName="BSP 테스트" pluginName="Scala" pluginId="org.intellij.scala" />
+                      <FeaturePluginData displayName="BSP test" pluginName="Scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
                   <entry key="ChromiumRemoteDebugType">
@@ -2603,7 +2603,7 @@
                   </entry>
                   <entry key="SbtRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="SBT 작업" pluginName="Scala" pluginId="org.intellij.scala" />
+                      <FeaturePluginData displayName="sbt Task" pluginName="Scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
                   <entry key="ScalaAmmoniteRunConfigurationType">
