@@ -8,6 +8,7 @@
     <option name="highlightColorEnabled" value="true" />
     <option name="styledDirectories" value="true" />
     <option name="accentMode" value="true" />
+    <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="fileStatusColorsEnabled" value="false" />
     <option name="isHighlightColorEnabled" value="true" />
