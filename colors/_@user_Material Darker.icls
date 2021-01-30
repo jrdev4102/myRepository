@@ -4,7 +4,7 @@
     <property name="created">2021-01-27T03:21:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.1.0.0</property>
-    <property name="modified">2021-01-30T19:18:47</property>
+    <property name="modified">2021-01-30T20:29:14</property>
     <property name="originalScheme">Material Darker</property>
     <property name="rainbow 디폴트 언어">true</property>
   </metaInfo>
@@ -1319,7 +1319,7 @@
         <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JUPYTER_SELECTED_CELL">
       <value>
         <option name="BACKGROUND" value="323232" />
@@ -3560,7 +3560,7 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="SUGGESTION">
       <value>
         <option name="EFFECT_COLOR" value="607d8b" />
