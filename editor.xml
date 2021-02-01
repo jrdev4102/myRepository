@@ -1,37 +1,3 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
-    <option name="HIGHLIGHT_SCOPE" value="true" />
-    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-    <option name="JSP_ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="SHOW_METHOD_SEPARATORS" value="true" />
-  </component>
-  <component name="DefaultFont">
-    <option name="LINE_SPACING" value="1.3" />
-    <option name="USE_LIGATURES" value="true" />
-  </component>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
-    <option name="ENABLE_RENDERED_DOC" value="true" />
-    <option name="IS_WHITESPACES_SHOWN" value="true" />
-    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
-  </component>
-  <component name="JSEditorOptions">
-    <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
-  </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseOneLineMethods" value="false" />
-  </component>
-  <component name="JsonEditorOptions">
-    <option name="COLON_MOVE_OUTSIDE_QUOTES" value="true" />
-    <option name="COMMA_MOVE_OUTSIDE_QUOTES" value="true" />
-  </component>
   <component name="LiveEditOptions" chromeAutoDelay="300" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" />
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-  </component>
 </application>
