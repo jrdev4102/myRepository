@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="/usr/local/Cellar/git/2.23.0_1/etc/bash_completion.d/git-prompt.sh" />
+    <option name="myTabName" value="Local" />
   </component>
 </application>
