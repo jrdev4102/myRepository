@@ -1,17 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactMenus" value="true" />
-    <option name="compactStatusBar" value="true" />
-    <option name="compactTables" value="true" />
-    <option name="contrastMode" value="true" />
-    <option name="highContrast" value="true" />
-    <option name="highlightColorEnabled" value="true" />
-    <option name="styledDirectories" value="true" />
     <option name="accentMode" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="fileStatusColorsEnabled" value="false" />
-    <option name="isHighlightColorEnabled" value="true" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -22,13 +15,11 @@
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="useMaterialFont2" value="true" />
-    <option name="useMaterialWallpapers" value="true" />
-    <option name="useProjectFrame" value="true" />
     <option name="rightTreeIndent" value="6" />
     <option name="accentColor" value="7700ff" />
     <option name="highlightColor" value="1e91e9" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="5f7c744a:1773d48def8:-8000" />
-    <option name="version" value="5.5.0" />
+    <option name="version" value="4.11.5" />
   </component>
 </application>

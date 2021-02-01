@@ -11,5 +11,6 @@
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="compiler.automake.allow.when.app.running" value="true" />
+    <entry key="ide.tree.ui.experimental" value="false" />
   </component>
 </application>
