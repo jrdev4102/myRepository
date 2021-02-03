@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/kuku52313/projectImp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Changhun-H/learn-spring.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Project" />
