@@ -29,9 +29,9 @@
     <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
   </ScalaCodeStyleSettings>
   <XML>
-    <option name="XML_KEEP_LINE_BREAKS" value="false" />
-    <option name="XML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
     <option name="XML_KEEP_BLANK_LINES" value="1" />
+    <option name="XML_SPACE_AROUND_EQUALITY_IN_ATTRIBUTE" value="true" />
+    <option name="XML_SPACE_AFTER_TAG_NAME" value="true" />
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </XML>
   <codeStyleSettings language="EditorConfig">
@@ -128,6 +128,7 @@
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
