@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="psfl" value="public static final Logger log = LoggerFactory.getLogger(this);" description="public static final Logger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
