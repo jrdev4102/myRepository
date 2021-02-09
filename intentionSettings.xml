@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Groovy/Groovy-style/Add On Demand Static Import in Groovy" />
+    <ignoreAction name="Java/Refactorings/Introduce local variable" />
   </component>
 </application>
