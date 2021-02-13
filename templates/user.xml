@@ -5,4 +5,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="pf" value="private final $NAME$" description="private final" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
