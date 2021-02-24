@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/onjsdnjs/corespringsecurityfinal.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jrdev4102/LearningSecurity.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\developement" />
