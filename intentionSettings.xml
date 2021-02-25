@@ -8,5 +8,7 @@
     <ignoreAction name="Lombok/Replace explicit type with 'val' (Lombok)" />
     <ignoreAction name="Lombok/Replace explicit type with 'var' (Lombok)" />
     <ignoreAction name="Java/Concurrency/Convert to atomic" />
+    <ignoreAction name="XML/Remove attribute" />
+    <ignoreAction name="Language injection/Edit injected fragment" />
   </component>
 </application>
