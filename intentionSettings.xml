@@ -2,5 +2,7 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Groovy/Groovy-style/Add On Demand Static Import in Groovy" />
     <ignoreAction name="Java/Refactorings/Introduce local variable" />
+    <ignoreAction name="XML/Remove attribute" />
+    <ignoreAction name="Language injection/Edit injected fragment" />
   </component>
 </application>
