@@ -12,6 +12,9 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseOneLineMethods" value="false" />
+  </component>
   <component name="LiveEditOptions" chromeAutoDelay="300" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" />
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
