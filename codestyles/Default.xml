@@ -20,6 +20,7 @@
   <JavaCodeStyleSettings>
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
     <option name="ALIGN_MULTILINE_TEXT_BLOCKS" value="true" />
+    <option name="BLANK_LINES_AROUND_INITIALIZER" value="0" />
     <option name="RECORD_COMPONENTS_WRAP" value="2" />
     <option name="NEW_LINE_AFTER_LPAREN_IN_RECORD_HEADER" value="true" />
     <option name="RPAREN_ON_NEW_LINE_IN_RECORD_HEADER" value="true" />
@@ -46,9 +47,9 @@
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BETWEEN_PACKAGE_DECLARATION_AND_HEADER" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
-    <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="BLANK_LINES_AFTER_ANONYMOUS_CLASS_HEADER" value="1" />
     <option name="BLANK_LINES_BEFORE_CLASS_END" value="1" />
