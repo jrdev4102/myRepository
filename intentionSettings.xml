@@ -4,5 +4,11 @@
     <ignoreAction name="Groovy/선언/Groovy 지역 변수 삽입" />
     <ignoreAction name="Groovy/표현식 변환/메소드 호출에서 불필요한 소괄호 제거" />
     <ignoreAction name="Java/문자열/문자열 연결 텍스트를 클립보드에 복사" />
+    <ignoreAction name="Java/Declaration/Split declaration" />
+    <ignoreAction name="Lombok/Replace explicit type with 'val' (Lombok)" />
+    <ignoreAction name="Lombok/Replace explicit type with 'var' (Lombok)" />
+    <ignoreAction name="Java/Concurrency/Convert to atomic" />
+    <ignoreAction name="XML/Remove attribute" />
+    <ignoreAction name="Language injection/Edit injected fragment" />
   </component>
 </application>
