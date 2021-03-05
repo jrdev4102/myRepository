@@ -69,7 +69,6 @@
     <option name="ALIGN_SUBSEQUENT_SIMPLE_METHODS" value="true" />
     <option name="SPACE_AROUND_METHOD_REF_DBL_COLON" value="true" />
     <option name="SPACE_WITHIN_PARENTHESES" value="true" />
-    <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
     <option name="SPACE_WITHIN_EMPTY_ARRAY_INITIALIZER_BRACES" value="true" />
     <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
