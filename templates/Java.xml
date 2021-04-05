@@ -5,7 +5,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="bbs" value="BufferedReader br = new BufferedReader(new InputStreamReader(System.in));&#10;BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));" toReformat="false" toShortenFQNames="true">
+  <template name="bbs" value="BufferedReader br = new BufferedReader(new InputStreamReader(System.in));&#10;BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));&#10;StringBuilder sb = new StringBuilder();" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
