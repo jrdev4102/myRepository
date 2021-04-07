@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="15.165.178.142" id="11ebef84-babc-479e-8945-1c4c5ae5845c" keyPath="C:\Users\Han\.ssh\ubuntuEC2.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="15.165.178.142" id="11ebef84-babc-479e-8945-1c4c5ae5845c" keyPath="C:\Users\Han\.ssh\ubuntuEC2.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
     </configs>
   </component>
 </application>
