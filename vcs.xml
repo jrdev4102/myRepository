@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/jrdev4102/LearningJPA.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/shirohoo/Practice-Algorithm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\development" />
