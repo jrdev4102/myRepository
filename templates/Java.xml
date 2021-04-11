@@ -5,17 +5,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="bbs" value="BufferedReader br = new BufferedReader(new InputStreamReader(System.in));&#10;BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));&#10;StringBuilder sb = new StringBuilder();" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
-  <template name="bbe" value="bw.flush();&#10;bw.close();&#10;br.close();" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
   <template name="data" value="import lombok.AllArgsConstructor;&#10;import lombok.Data;&#10;import lombok.NoArgsConstructor;&#10;&#10;@Data&#10;@NoArgsConstructor&#10;@AllArgsConstructor" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="algo" value="BufferedReader br = new BufferedReader(new InputStreamReader(System.in));&#10;BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));&#10;StringBuilder sb = new StringBuilder();&#10;&#10;$END$        &#10;        &#10;bw.flush();&#10;bw.close();&#10;br.close();" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
