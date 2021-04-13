@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="soutv" value="console.log(&quot;$EXPR_COPY$ = &quot;, $EXPR$$END$);" description="console.log()" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR_COPY" expression="jsArrayVariable()" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
+    <variable name="EXPR" expression="escapeString(String)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
