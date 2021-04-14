@@ -5,12 +5,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="bbs" value="BufferedReader br = new BufferedReader(new InputStreamReader(System.in));&#10;BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));&#10;StringBuilder sb = new StringBuilder();" description="" toReformat="false" toShortenFQNames="true">
+  <template name="data" value="import lombok.*;&#10;&#10;@Data&#10;@Builder&#10;@AllArgsConstructor&#10;@NoArgsConstructor(access = AccessLevel.PROTECTED)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="bbe" value="bw.flush();&#10;bw.close();&#10;br.close();" description="" toReformat="false" toShortenFQNames="true">
+  <template name="algo" value="BufferedReader br = new BufferedReader(new InputStreamReader(System.in));&#10;BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));&#10;StringBuilder sb = new StringBuilder();&#10;    &#10;$END$&#10;    &#10;bw.flush();&#10;bw.close();&#10;br.close();&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
