@@ -1,5 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="soutv" value="console.log(&quot;$EXPR_COPY$ = &quot;, $EXPR$);" toReformat="false" toShortenFQNames="true">
+  <template name="soutv" value="console.log(&quot;$EXPR_COPY$ = &quot;, $EXPR$);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="EXPR_COPY" expression="jsArrayVariable()" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
     <variable name="EXPR" expression="escapeString(String)" defaultValue="" alwaysStopAt="false" />
     <context>
