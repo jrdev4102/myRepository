@@ -1,5 +1,12 @@
 <templateSet group="user">
-  <template name="psfl" value="public static final Logger log = LoggerFactory.getLogger(this);" description="public static final Logger" toReformat="false" toShortenFQNames="true">
+  <template name="pvm" value="public void $NAME$(){&#10;$END$&#10;}" description="public void method" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pf" value="private final $NAME$" description="private final" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

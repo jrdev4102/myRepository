@@ -1,0 +1,7 @@
+<templateSet group="HTML/XML">
+  <template name="thy" value="xmlns:th=&quot;http://www.thymeleaf.org&quot;" description="Thymeleaf" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

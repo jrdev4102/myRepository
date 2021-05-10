@@ -11,11 +11,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="Changhun-H" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/jrdev4102/JPA_STUDY.git" />
+          <option name="url" value="https://github.com/Changhun-H/learn-spring.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -23,23 +19,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/jrdev4102/hklmart-refactoring.git" />
+          <option name="url" value="https://github.com/jrdev4102/LearningJPA.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/jrdev4102/Project_HKL.git" />
+          <option name="url" value="https://github.com/shirohoo/TechBlogsSubscribeApplication.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/onjsdnjs/corespringsecurityfinal.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/jrdev4102/LearningSecurity.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/spring-projects/spring-petclinic.git" />
+          <option name="url" value="https://github.com/shirohoo/Application-TechBlogsSubscribe.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -55,12 +43,16 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://github.com/shirohoo/Refactoring-HKLMart.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://github.com/shirohoo/Practice-JPA.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\developement" />
+    <option name="cloneParentDir" value="D:\development" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
@@ -71,13 +63,12 @@
         <option value="Default.Root" />
         <option value="Default.Subject" />
         <option value="Default.Author" />
-        <option value="Default.Hash" />
         <option value="Default.Date" />
+        <option value="Default.Hash" />
       </list>
     </option>
     <option name="COLUMN_ID_VISIBILITY">
       <map>
-        <entry key="Table.Default.Date.ColumnIdVisibility" value="true" />
         <entry key="Table.Default.Hash.ColumnIdVisibility" value="true" />
       </map>
     </option>

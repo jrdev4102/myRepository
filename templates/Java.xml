@@ -1,23 +1,16 @@
 <templateSet group="Java">
-  <template name="logger" value="private final Logger log = LoggerFactory.getLogger($NAME$);" description="private final Logger" toReformat="true" toShortenFQNames="true">
+  <template name="logger" value="private static final Logger log = LoggerFactory.getLogger($NAME$);" description="public static final Logger" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="tdd" value="@Test&#10;@DisplayName(&quot;&quot;)&#10;public void $NAME$() throws Exception{&#10;// Given&#10;$END$&#10;// When&#10;&#10;// Then&#10;}" description="Test Driven Development" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="data" value="import lombok.*;&#10;&#10;@Data&#10;@Builder&#10;@AllArgsConstructor&#10;@NoArgsConstructor(access = AccessLevel.PROTECTED)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="pf" value="private final $NAME$" description="private final" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
-  <template name="data" value="import lombok.AllArgsConstructor;&#10;import lombok.Builder;&#10;import lombok.Data;&#10;import lombok.NoArgsConstructor;&#10;&#10;@Data&#10;@Builder&#10;@NoArgsConstructor&#10;@AllArgsConstructor" description="" toReformat="false" toShortenFQNames="true">
+  <template name="algo" value="BufferedReader br = new BufferedReader(new InputStreamReader(System.in));&#10;BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));&#10;StringBuilder sb = new StringBuilder();&#10;    &#10;$END$&#10;    &#10;bw.flush();&#10;bw.close();&#10;br.close();&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
