@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="aaa" type="AUTO_DETECTED" />
       <mapping pattern="BOJ_10718.java" type="AUTO_DETECTED" />
+      <mapping pattern="hosts" type="AUTO_DETECTED" />
       <mapping pattern="aa" type="AUTO_DETECTED" />
       <mapping pattern="BOJ_10718" type="JAVA" />
       <mapping ext="space.kts" type="Kotlin" />
