@@ -1,7 +1,0 @@
-<application>
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="54.180.32.123" id="11ebef84-babc-479e-8945-1c4c5ae5845c" keyPath="C:\Users\hch4102\.ssh\test-kafka-server-key.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
-    </configs>
-  </component>
-</application>
