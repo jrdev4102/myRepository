@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="54.180.32.123" id="11ebef84-babc-479e-8945-1c4c5ae5845c" keyPath="C:\Users\hch4102\.ssh\test-kafka-server-key.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
+      <sshConfig authType="PASSWORD" host="192.168.7.50" id="28ffa57a-5a5d-4879-a553-28b66e292fff" port="22" nameFormat="DESCRIPTIVE" username="tomcat" />
     </configs>
   </component>
 </application>
