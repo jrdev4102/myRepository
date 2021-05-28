@@ -1,5 +1,5 @@
 <templateSet group="HTML/XML">
-  <template name="thy" value="xmlns:th=&quot;http://www.thymeleaf.org&quot;" description="Thymeleaf" toReformat="true" toShortenFQNames="true">
+  <template name="thy" value="&lt;!DOCTYPE HTML&gt;&#10;&lt;html xmlns:th=&quot;http://www.thymeleaf.org&quot; &gt;&#10;&lt;head &gt;&#10;    &lt;meta charset=&quot;UTF-8&quot; &gt;&#10;    &lt;title &gt;Title&lt;/title &gt;&#10;&lt;/head &gt;&#10;&lt;body &gt;&#10;&#10;&lt;/body &gt;&#10;&lt;/html &gt;" description="Thymeleaf" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
     </context>
