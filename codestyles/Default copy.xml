@@ -28,6 +28,12 @@
     <option name="NEW_LINE_AFTER_LPAREN_IN_RECORD_HEADER" value="true" />
     <option name="RPAREN_ON_NEW_LINE_IN_RECORD_HEADER" value="true" />
   </JavaCodeStyleSettings>
+  <MySQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
+    <option name="QUERY_EL_COMMA" value="2" />
+  </MySQLCodeStyleSettings>
   <ScalaCodeStyleSettings>
     <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
   </ScalaCodeStyleSettings>
@@ -166,6 +172,11 @@
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="MySQL">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
