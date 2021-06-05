@@ -18,6 +18,7 @@
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="SPACE_BEFORE_CLASS_LBRACE" value="false" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
+    <option name="ALIGN_IMPORTS" value="true" />
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
   </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
@@ -153,7 +154,7 @@
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
@@ -172,9 +173,6 @@
     <option name="SPACE_BEFORE_TRY_LBRACE" value="false" />
     <option name="SPACE_BEFORE_CATCH_LBRACE" value="false" />
     <option name="SPACE_BEFORE_FINALLY_LBRACE" value="false" />
-    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
-    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
-    <option name="WRAP_COMMENTS" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
