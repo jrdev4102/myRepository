@@ -1,12 +1,12 @@
 <templateSet group="HTML/XML">
-  <template name="thy" value="&lt;!DOCTYPE HTML&gt;&#10;&lt;html xmlns:th=&quot;http://www.thymeleaf.org&quot; &gt;&#10;&lt;head &gt;&#10;    &lt;meta charset=&quot;UTF-8&quot; &gt;&#10;    &lt;title &gt;Title&lt;/title &gt;&#10;&lt;/head &gt;&#10;&lt;body &gt;&#10;&#10;&lt;/body &gt;&#10;&lt;/html &gt;" description="Thymeleaf" toReformat="true" toShortenFQNames="true">
+  <template name="thy" value="&lt;!DOCTYPE HTML&gt;&#10;&lt;html xmlns:th=&quot;http://www.thymeleaf.org&quot;&gt;&#10;  &lt;head &gt;&#10;    &lt;meta charset=&quot;utf-8&quot;&gt;&#10;    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;&#10;    &lt;title&gt;Title&lt;&lt;/title&gt;&#10;  &lt;/head&gt;&#10;  &lt;body&gt;&#10;&#10;  &lt;/body&gt;&#10;&lt;/html&gt;" description="Thymeleaf" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="vue" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;ko&quot;&gt;&#10;&lt;head&gt;&#10;  &lt;meta charset=&quot;utf-8&quot;&gt;&#10;  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;&#10;  &lt;title&gt;Title&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;  &lt;div id=&quot;app&quot;&gt;&#10;    {{ message }}&#10;  &lt;/div&gt;&#10;  &#10;  &lt;script src=&quot;https://cdn.jsdelivr.net/npm/vue/dist/vue.js&quot;&gt;&lt;/script&gt;&#10;  &lt;script&gt;&#10;    'use strict'&#10;    new Vue({&#10;              el  : '#app',&#10;              data: {&#10;                message: 'hello'&#10;              }&#10;            })&#10;  &lt;/script&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="Vue.js" toReformat="false" toShortenFQNames="true">
+  <template name="vue" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;ko&quot;&gt;&#10;  &lt;head&gt;&#10;    &lt;meta charset=&quot;utf-8&quot;&gt;&#10;    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;&#10;    &lt;title&gt;Title&lt;&lt;/title&gt;&#10;  &lt;/head&gt;&#10;  &lt;body&gt;&#10;    &lt;div id=&quot;app&quot;&gt;&#10;      {{ message }}&#10;    &lt;/div&gt;&#10;    &#10;    &lt;script src=&quot;https://cdn.jsdelivr.net/npm/vue/dist/vue.js&quot;&gt;&lt;/script&gt;&#10;    &lt;script src=&quot;https://unpkg.com/vue-router/dist/vue-router.js&quot;&gt;&lt;/script&gt;&#10;    &lt;script&gt;&#10;      'use strict'&#10;      new Vue({&#10;        el        : '#app',&#10;        data      : {&#10;          message: 'hello'&#10;        },&#10;        computed  : {},&#10;        components: {},&#10;        methods   : {}&#10;      });&#10;    &lt;/script&gt;&#10;  &lt;/body&gt;&#10;&lt;/html&gt;" description="Vue.js" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="HTML" value="true" />
+      <option name="HTML_TEXT" value="true" />
     </context>
   </template>
 </templateSet>
