@@ -70,6 +70,10 @@
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="1" />
     <option name="SOFT_MARGINS" value="0" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
