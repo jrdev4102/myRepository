@@ -1,0 +1,7 @@
+<templateSet group="Groovy">
+  <template name="bg" value="plugins {&#10;    id 'java'&#10;}&#10;&#10;group ''&#10;sourceCompatibility = ''&#10;&#10;repositories {&#10;    mavenCentral()&#10;}&#10;&#10;dependencies {&#10;    testImplementation &quot;org.junit.jupiter:junit-jupiter:5.7.2&quot;&#10;    testImplementation &quot;org.assertj:assertj-core:3.19.0&quot;&#10;}&#10;&#10;test {&#10;    useJUnitPlatform()&#10;}" description="Setup build.gradle" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="true" />
+    </context>
+  </template>
+</templateSet>
