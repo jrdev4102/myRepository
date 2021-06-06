@@ -1,0 +1,23 @@
+<templateSet group="Java">
+  <template name="logger" value="private static final Logger log = LoggerFactory.getLogger($NAME$);" description="public static final Logger" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="data" value="import lombok.*;&#10;&#10;@Data&#10;@Builder&#10;@AllArgsConstructor&#10;@NoArgsConstructor(access = AccessLevel.PROTECTED)" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="algo" value="BufferedReader br = new BufferedReader(new InputStreamReader(System.in));&#10;BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));&#10;StringBuilder sb = new StringBuilder();&#10;    &#10;$END$&#10;    &#10;bw.flush();&#10;bw.close();&#10;br.close();&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="aj" value="import static org.assertj.core.api.Assertions.assertThat;" description="assertJ" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

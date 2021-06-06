@@ -1,0 +1,20 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="62ab366a-5647-4e30-a3d2-bbdb1d33d835" name="kafka">
+        <fileTransfer accessType="SFTP" host="15.165.178.142" port="22" sshConfigId="11ebef84-babc-479e-8945-1c4c5ae5845c" sshConfig="ubuntu@15.165.178.142:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d1aea4dc-94a2-4a06-b16b-1347b653e188" name="ubuntuEC2">
+        <fileTransfer accessType="SFTP" host="15.165.178.142" port="22" sshConfigId="11ebef84-babc-479e-8945-1c4c5ae5845c" sshConfig="ubuntu@15.165.178.142:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
