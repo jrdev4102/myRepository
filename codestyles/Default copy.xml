@@ -4,12 +4,12 @@
     <option name="ALIGN_FUNCTION_BODY" value="true" />
   </CoffeeScriptCodeStyleSettings>
   <HTMLCodeStyleSettings>
-    <option name="HTML_UNIFORM_INDENT" value="true" />
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_TEXT_WRAP" value="0" />
     <option name="HTML_KEEP_BLANK_LINES" value="1" />
     <option name="HTML_ALIGN_TEXT" value="true" />
-    <option name="HTML_SPACE_AFTER_TAG_NAME" value="true" />
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
     <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,kbd,q,s,samp,select,small,strike,strong,sub,sup,tt,u,input,var" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
@@ -18,6 +18,7 @@
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="SPACE_BEFORE_CLASS_LBRACE" value="false" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
+    <option name="ALIGN_IMPORTS" value="true" />
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
   </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
@@ -28,6 +29,12 @@
     <option name="NEW_LINE_AFTER_LPAREN_IN_RECORD_HEADER" value="true" />
     <option name="RPAREN_ON_NEW_LINE_IN_RECORD_HEADER" value="true" />
   </JavaCodeStyleSettings>
+  <MySQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
+    <option name="QUERY_EL_COMMA" value="2" />
+  </MySQLCodeStyleSettings>
   <ScalaCodeStyleSettings>
     <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
   </ScalaCodeStyleSettings>
@@ -62,8 +69,14 @@
     <option name="SPACE_AFTER_COLON" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
-    <option name="WRAP_ON_TYPING" value="1" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <option name="SOFT_MARGINS" value="0" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
@@ -141,7 +154,7 @@
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
@@ -160,12 +173,16 @@
     <option name="SPACE_BEFORE_TRY_LBRACE" value="false" />
     <option name="SPACE_BEFORE_CATCH_LBRACE" value="false" />
     <option name="SPACE_BEFORE_FINALLY_LBRACE" value="false" />
-    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
-    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
-    <option name="WRAP_COMMENTS" value="true" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="MySQL">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
