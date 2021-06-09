@@ -3,8 +3,5 @@
     <account id="94ed3956-0703-4bf7-a492-a1568a7fa619" name="shirohoo">
       <server host="github.com" />
     </account>
-    <account id="aeb9041d-26be-4aa6-b3a4-547885124c3e" name="Changhun-H">
-      <server host="github.com" />
-    </account>
   </component>
 </application>
