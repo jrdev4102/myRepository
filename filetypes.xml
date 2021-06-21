@@ -2,9 +2,11 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="OP0031F04" type="AUTO_DETECTED" />
+      <mapping pattern="OP0031F05" type="AUTO_DETECTED" />
       <mapping pattern="aaa" type="AUTO_DETECTED" />
       <mapping pattern="BOJ_10718.java" type="AUTO_DETECTED" />
       <mapping pattern="hosts" type="AUTO_DETECTED" />
+      <mapping pattern="02_JPA시작.md" type="AUTO_DETECTED" />
       <mapping pattern="aa" type="AUTO_DETECTED" />
       <mapping pattern="BOJ_10718" type="JAVA" />
       <mapping ext="space.kts" type="Kotlin" />
