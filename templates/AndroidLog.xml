@@ -1,5 +1,5 @@
 <templateSet group="AndroidLog">
-  <template name="tdd" value="@Test&#10;@DisplayName(&quot;&quot;)&#10;public void $NAME$() throws Exception{&#10;    // given&#10;    $END$&#10;    // when&#10;    &#10;    // then&#10;}" description="test driven development" toReformat="false" toShortenFQNames="true">
+  <template name="tdd" value="@Test&#10;void $NAME$() throws Exception{&#10;    // given&#10;    $END$&#10;    // when&#10;    &#10;    // then&#10;}" description="test driven development" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />

@@ -1,0 +1,19 @@
+<application>
+  <component name="PowerModeII">
+    <option name="blueFrom" value="23" />
+    <option name="colorAlpha" value="196" />
+    <option name="flameLife" value="0" />
+    <option name="frameRate" value="120" />
+    <option name="greenFrom" value="30" />
+    <option name="greenTo" value="30" />
+    <option name="heatupThreshold" value="5" />
+    <option name="isCaretAction" value="true" />
+    <option name="maxFlameSize" value="0" />
+    <option name="redFrom" value="103" />
+    <option name="redTo" value="203" />
+    <option name="shakeEnabled" value="true" />
+    <option name="shakeRange" value="16" />
+    <option name="sparkCount" value="36" />
+    <option name="sparkLife" value="6570" />
+  </component>
+</application>
