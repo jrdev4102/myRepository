@@ -45,7 +45,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="mb" value="&#10;&amp;nbsp;  &#10;&#10;$END$&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="mb" value="&amp;nbsp;  " toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ANY_OPENAPI_JSON_FILE" value="false" />
       <option name="ANY_OPENAPI_YAML_FILE" value="false" />
