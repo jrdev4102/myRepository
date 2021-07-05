@@ -11,7 +11,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="posting" value="---&#10;layout: post&#10;category:&#10;    - category1&#10;    - category2&#10;date: $DATE$&#10;title: title&#10;description: &gt;&#10;    desc&#10;image: /assets/img/&#10;accent_image:&#10;    background: url('/assets/img/') center/cover&#10;---&#10;&#10;* toc&#10;{:toc}" toReformat="false" toShortenFQNames="false">
+  <template name="posting" value="---&#10;layout: post&#10;category:&#10;    - category1&#10;    - category2&#10;date: $DATE$&#10;title: title&#10;description: &gt;&#10;    desc&#10;image: /assets/img/&#10;accent_image:&#10;    background: url('/assets/img/') center/cover&#10;---&#10;&#10;* toc&#10;{:toc}" description="" toReformat="false" toShortenFQNames="false">
     <variable name="DATE" expression="date(&quot;Y-MM-d HH:mm&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="ANY_OPENAPI_JSON_FILE" value="false" />
