@@ -11,8 +11,41 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="posting" value="---&#10;layout: post&#10;category:&#10;    - category1&#10;    - category2&#10;date: $DATE$&#10;title: title&#10;description: &gt;&#10;    desc&#10;image: /assets/img/&#10;accent_image:&#10;    background: url('/assets/img/') center/cover&#10;---&#10;&#10;* toc&#10;{:toc}&#10;&#10;&lt;br /&gt;&#10;&#10;$END$" description="" toReformat="false" toShortenFQNames="false">
+  <template name="posting" value="---&#10;layout: post&#10;category:&#10;    - category1&#10;    - category2&#10;date: $DATE$&#10;title: title&#10;description: &gt;&#10;    desc&#10;image: /assets/img/&#10;accent_image:&#10;    background: url('/assets/img/') center/cover&#10;---&#10;&#10;* toc&#10;{:toc}&#10;&#10;&amp;nbsp;  &#10;&#10;$END$" description="" toReformat="false" toShortenFQNames="false">
     <variable name="DATE" expression="date(&quot;Y-MM-d HH:mm&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ANY_OPENAPI_JSON_FILE" value="false" />
+      <option name="ANY_OPENAPI_YAML_FILE" value="false" />
+      <option name="ASPECTJ" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="GENERAL_JSON_FILE" value="false" />
+      <option name="GENERAL_YAML_FILE" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GSP" value="false" />
+      <option name="HAML" value="false" />
+      <option name="HTML" value="false" />
+      <option name="HTTP_CLIENT_ENVIRONMENT" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JSP" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="RHTML" value="false" />
+      <option name="RUBY" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="mb" value="&#10;&amp;nbsp;  &#10;&#10;$END$&#10;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ANY_OPENAPI_JSON_FILE" value="false" />
       <option name="ANY_OPENAPI_YAML_FILE" value="false" />
