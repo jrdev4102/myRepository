@@ -127,6 +127,10 @@
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="Markdown">
+    <option name="RIGHT_MARGIN" value="250" />
+    <option name="WRAP_ON_TYPING" value="1" />
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
