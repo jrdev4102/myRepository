@@ -7,8 +7,8 @@
       <mapping pattern="hosts" type="AUTO_DETECTED" />
       <mapping pattern="BOJ_10718.java" type="AUTO_DETECTED" />
       <mapping pattern="02_JPA시작.md" type="AUTO_DETECTED" />
-      <mapping pattern="5장_연관관계_매핑_기초" type="AUTO_DETECTED" />
       <mapping pattern="aa" type="AUTO_DETECTED" />
+      <mapping pattern="5장_연관관계_매핑_기초" type="AUTO_DETECTED" />
       <mapping pattern="BOJ_10718" type="JAVA" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
