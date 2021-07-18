@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="사용자_정보를_수정한다" />
       <item value="put Into Stack" />
       <item value="validate" />
       <item value="String" />
@@ -10,7 +11,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="6" />
-        <entry key="KOREAN" value="6" />
+        <entry key="KOREAN" value="7" />
       </map>
     </option>
   </component>
