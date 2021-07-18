@@ -1,5 +1,30 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="put Into Stack" />
+      <item value="validate" />
+      <item value="String" />
+      <item value="operators" />
+      <item value="operands" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="6" />
+        <entry key="KOREAN" value="6" />
+      </map>
+    </option>
+  </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1626597575957" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="phoneticFontFamily" value="D2Coding ligature" />
+    <option name="primaryFontFamily" value="D2Coding ligature" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
