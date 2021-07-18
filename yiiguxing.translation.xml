@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corrected typos" />
+      <item value="correct typos" />
+      <item value="롬복을 수정했다" />
+      <item value="Lombok" />
       <item value="사용자_정보를_수정한다" />
       <item value="put Into Stack" />
       <item value="validate" />
@@ -10,8 +14,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="6" />
-        <entry key="KOREAN" value="7" />
+        <entry key="ENGLISH" value="9" />
+        <entry key="KOREAN" value="9" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
