@@ -78,4 +78,22 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="tc" value="@org.junit.jupiter.api.Test&#10;void $methodName$() throws Exception{&#10;    // given&#10;    $END$&#10;    &#10;    // when&#10;    &#10;    // then&#10;}" description="test case" toReformat="false" toShortenFQNames="true">
+    <variable name="methodName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="at" value="org.assertj.core.api.Assertions.assertThat($EXCEPTION$.class, () -&gt; $END$);" description="assertThat" toReformat="false" toShortenFQNames="true">
+    <variable name="EXCEPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="att" value="org.assertj.core.api.Assertions.assertThatThrownBy($EXCEPTION$.class, () -&gt; $END$);" description="assertThatThrownBy" toReformat="false" toShortenFQNames="true">
+    <variable name="EXCEPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
