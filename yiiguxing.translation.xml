@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="클래스가 이미 package-private이기 때문에 메서드는 public으로 변경" />
+      <item value="접근 제한자" />
+      <item value="접근제한자 변경" />
       <item value="컨벤션" />
       <item value="코드 포매팅을 수정하였습니다" />
       <item value="RacingCars was exposed the inside member to the outside, so i fixed this" />
@@ -44,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="32" />
-        <entry key="KOREAN" value="33" />
+        <entry key="ENGLISH" value="35" />
+        <entry key="KOREAN" value="36" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
