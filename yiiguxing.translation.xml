@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="added exception handling if infinity is found when dividing by 0" />
+      <item value="0으로 나누었을 때 인피니티가 나오는 경우 예외 처리 추가하였다" />
+      <item value="separating standard output into view classes" />
+      <item value="표준출력을 view class로 분리하였다" />
+      <item value="view 분리" />
+      <item value="change field of enum class to final" />
+      <item value="enum class의 field를 final로 변경" />
+      <item value="Added @SuppressWarnings(&quot;NonAsciiCharacters&quot;) to get rid of IDE warnings" />
+      <item value="IDE 경고를 없애기 위해 @SuppressWarnings(&quot;NonAsciiCharacters&quot;)를 추가" />
+      <item value="Edited by review" />
+      <item value="리뷰 반영하여 수정" />
+      <item value="Review reflection correction" />
+      <item value="리뷰반영 수정" />
+      <item value="0으로나누기" />
+      <item value="Expecting code to raise a throwable." />
       <item value="계산된값" />
       <item value="코드 컨벤션을 고쳤다" />
       <item value="클래스가 이미 package-private이기 때문에 메서드는 public으로 변경" />
@@ -36,21 +51,11 @@
       <item value="duplicate" />
       <item value="중복" />
       <item value="Sql" />
-      <item value="corrected typos" />
-      <item value="correct typos" />
-      <item value="롬복을 수정했다" />
-      <item value="Lombok" />
-      <item value="사용자_정보를_수정한다" />
-      <item value="put Into Stack" />
-      <item value="validate" />
-      <item value="String" />
-      <item value="operators" />
-      <item value="operands" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="38" />
-        <entry key="KOREAN" value="39" />
+        <entry key="ENGLISH" value="47" />
+        <entry key="KOREAN" value="47" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
