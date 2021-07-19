@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="- collection type was changed from String to Car, and the code for it was modified." />
+      <item value="- test code for the modified code was written." />
+      <item value="The collection type was changed from String to Car, and the code for it was modified, and a test code for the modified code was written." />
+      <item value="컬렉션 타입이 String에서 Car로 변경되어 이에 대한 코드를 수정하였다 그리고 수정된 코드에 대한 테스트 코드를 작성하였다" />
+      <item value="- write a Car that has the name and position information." />
+      <item value="- CarTest is test code for Car" />
+      <item value="write a Car that has the name and location information of the car and test code for it" />
+      <item value="Write a Car object that has the name and location information of the car and test code for it" />
+      <item value="그리고" />
+      <item value="자동차의 이름과 위치 정보를 가지고 있는 Car 객체와 이에 대한 테스트 코드를 작성" />
+      <item value="add getDuplicatedInputMessage method" />
+      <item value="removed line coverage check items as unnecessary" />
+      <item value="라인 커버리지 검사 항목이 필요없다고 판단되어 제거" />
       <item value="instance" />
       <item value="INPUT DUPLICATED MESAGE" />
       <item value="duplicate" />
@@ -19,8 +32,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="13" />
-        <entry key="KOREAN" value="13" />
+        <entry key="ENGLISH" value="23" />
+        <entry key="KOREAN" value="23" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
