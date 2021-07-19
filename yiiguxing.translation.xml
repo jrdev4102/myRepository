@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INPUT DUPLICATED MESAGE" />
+      <item value="duplicate" />
+      <item value="중복" />
       <item value="Sql" />
       <item value="corrected typos" />
       <item value="correct typos" />
@@ -15,8 +18,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="10" />
-        <entry key="KOREAN" value="10" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="KOREAN" value="12" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
