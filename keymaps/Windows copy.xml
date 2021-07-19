@@ -5,6 +5,9 @@
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="shift alt 2" />
   </action>
+  <action id="PowerShellConsoleAction">
+    <keyboard-shortcut first-keystroke="shift alt 4" />
+  </action>
   <action id="ReplaceConstructorWithFactory">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>

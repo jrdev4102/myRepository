@@ -212,6 +212,11 @@
                       <FeaturePluginData displayName="Nodeunit" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="PowerShellRunType">
+                    <value>
+                      <FeaturePluginData displayName="PowerShell" pluginName="PowerShell" pluginId="com.intellij.plugin.adernov.powershell" />
+                    </value>
+                  </entry>
                   <entry key="QuarkusRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Quarkus" pluginName="Quarkus" pluginId="com.intellij.quarkus" bundled="true" />
