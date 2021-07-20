@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="653" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reduce" />
       <item value="비트계산기" />
       <item value="재료" />
       <item value="계산해야할 것" />
@@ -54,11 +55,10 @@
       <item value="노출하고있었다" />
       <item value="exposes" />
       <item value="RacingCars exposes the inside to the outside, so this has been corrected." />
-      <item value="RacingCars가 내부를 외부에 노출하고 있어 이를 수정하였다" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="KOREAN" value="63" />
         <entry key="INDONESIAN" value="1" />
       </map>
