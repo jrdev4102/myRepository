@@ -89,8 +89,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="att" value="org.assertj.core.api.Assertions.assertThatThrownBy($EXCEPTION$.class, () -&gt; $END$);" description="assertThatThrownBy" toReformat="false" toShortenFQNames="true">
-    <variable name="EXCEPTION" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="att" value="org.assertj.core.api.Assertions.assertThatThrownBy(() -&gt; $END$)" description="assertThatThrownBy" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
