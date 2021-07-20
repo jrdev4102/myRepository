@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="653" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="비트계산기" />
+      <item value="재료" />
+      <item value="계산해야할 것" />
+      <item value="것" />
       <item value="is Even" />
       <item value="홀수짝수" />
       <item value="정상입력" />
@@ -51,15 +55,11 @@
       <item value="exposes" />
       <item value="RacingCars exposes the inside to the outside, so this has been corrected." />
       <item value="RacingCars가 내부를 외부에 노출하고 있어 이를 수정하였다" />
-      <item value="- collection type was changed from String to Car, and the code for it was modified." />
-      <item value="- test code for the modified code was written." />
-      <item value="The collection type was changed from String to Car, and the code for it was modified, and a test code for the modified code was written." />
-      <item value="컬렉션 타입이 String에서 Car로 변경되어 이에 대한 코드를 수정하였다 그리고 수정된 코드에 대한 테스트 코드를 작성하였다" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="59" />
-        <entry key="KOREAN" value="59" />
+        <entry key="ENGLISH" value="62" />
+        <entry key="KOREAN" value="63" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
